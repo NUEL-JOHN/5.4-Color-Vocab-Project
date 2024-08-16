@@ -27,3 +27,13 @@ img[draggable]{
     font-weight: normal
 
 }
+
+html{
+    background-color:brown
+}
+
+/* 
+html{                             *{
+    background-color:brown    OR    background-color:brown
+}                                  }
+     /*
